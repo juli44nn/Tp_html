@@ -5,3 +5,5 @@ Ejecucion:
   puede ejecutar el html con su navegador por defecto o cualquier otro.
 tecnologías usadas:
   -html: es la estructura o esqueleto de toda pagina web
+  -Visual studio code
+  
